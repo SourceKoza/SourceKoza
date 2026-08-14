@@ -111,28 +111,7 @@ To build technology that helps people learn faster, create better opportunities,
 
 ---
 
-## 📈 GitHub Activity
 
-<!-- Replace REPLACE_WITH_GITHUB_USERNAME everywhere below with your exact GitHub username. -->
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="Ramesh's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=REPLACE_WITH_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I enjoy connecting with builders, engineers, founders, and teams working on meaningful technology.
-
-- LinkedIn: [REPLACE_WITH_LINKEDIN_TEXT](REPLACE_WITH_LINKEDIN_URL)
-- Portfolio: [REPLACE_WITH_PORTFOLIO_TEXT](REPLACE_WITH_PORTFOLIO_URL)
-- Email: [REPLACE_WITH_EMAIL](mailto:REPLACE_WITH_EMAIL)
 
 <!--
 SETUP CHECKLIST
