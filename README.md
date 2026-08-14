@@ -1,16 +1,27 @@
-## Hi there 👋
+Ramesh Kumar Pandey
+Founder & CTO @ SourceKoza Labs
 
-<!--
-**SourceKoza/SourceKoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI-powered products for learning, careers,
+and intelligent automation.
 
-Here are some ideas to get you started:
+SOURCEKOZA LABS
+├── Learning OS
+│   AI-powered learning platform
+│
+└── CareerPilot AI
+    AI-powered career automation platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CURRENTLY BUILDING
+
+• Agentic AI systems
+• AI-powered applications
+• Distributed backend systems
+• Developer tools
+• Learning technology
+• Career automation
+
+TECHNOLOGY
+
+Java • Spring Boot • Kafka • PostgreSQL
+Redis • Docker • React • Next.js
+LLMs • RAG • LangGraph • AI Agents
